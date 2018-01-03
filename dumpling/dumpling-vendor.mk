@@ -1,4 +1,4 @@
-# Copyright (C) 2017 The LineageOS Project
+# Copyright (C) 2017-2018 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -28,10 +28,19 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/dumpling/proprietary/etc/acdbdata/MTP/MTP_Speaker_cal.acdb:system/etc/acdbdata/MTP/MTP_Speaker_cal.acdb \
     vendor/oneplus/dumpling/proprietary/etc/acdbdata/MTP/MTP_workspaceFile.qwsp:system/etc/acdbdata/MTP/MTP_workspaceFile.qwsp \
     vendor/oneplus/dumpling/proprietary/etc/acdbdata/adsp_avs_config.acdb:system/etc/acdbdata/adsp_avs_config.acdb \
+    vendor/oneplus/dumpling/proprietary/etc/camera/ashdr/iso617_4608x3456.ncf:system/etc/camera/ashdr/iso617_4608x3456.ncf \
+    vendor/oneplus/dumpling/proprietary/etc/camera/ashdr/ncf_pack.ncf:system/etc/camera/ashdr/ncf_pack.ncf \
+    vendor/oneplus/dumpling/proprietary/etc/camera/attribute.model:system/etc/camera/attribute.model \
     vendor/oneplus/dumpling/proprietary/etc/camera/camera_config.xml:system/etc/camera/camera_config.xml \
+    vendor/oneplus/dumpling/proprietary/etc/camera/cp/CPCalibrationData.bin:system/etc/camera/cp/CPCalibrationData.bin \
+    vendor/oneplus/dumpling/proprietary/etc/camera/cp/SystemParamsBokeh.bin:system/etc/camera/cp/SystemParamsBokeh.bin \
+    vendor/oneplus/dumpling/proprietary/etc/camera/cp/SystemParamsFusion.bin:system/etc/camera/cp/SystemParamsFusion.bin \
+    vendor/oneplus/dumpling/proprietary/etc/camera/cp/systemParams.bin:system/etc/camera/cp/systemParams.bin \
     vendor/oneplus/dumpling/proprietary/etc/camera/imx371_chromatix.xml:system/etc/camera/imx371_chromatix.xml \
     vendor/oneplus/dumpling/proprietary/etc/camera/imx376k_chromatix.xml:system/etc/camera/imx376k_chromatix.xml \
     vendor/oneplus/dumpling/proprietary/etc/camera/imx398_chromatix.xml:system/etc/camera/imx398_chromatix.xml \
+    vendor/oneplus/dumpling/proprietary/etc/camera/sticker/megviifacepp_0_4_7_model:system/etc/camera/sticker/megviifacepp_0_4_7_model \
+    vendor/oneplus/dumpling/proprietary/etc/camera/sticker/mgbeautify_1_2_3_model:system/etc/camera/sticker/mgbeautify_1_2_3_model \
     vendor/oneplus/dumpling/proprietary/etc/firmware/a530_pfp.fw:system/etc/firmware/a530_pfp.fw \
     vendor/oneplus/dumpling/proprietary/etc/firmware/a530_pm4.fw:system/etc/firmware/a530_pm4.fw \
     vendor/oneplus/dumpling/proprietary/etc/firmware/a540_gpmu.fw2:system/etc/firmware/a540_gpmu.fw2 \
