@@ -67,9 +67,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/dumpling/proprietary/etc/firmware/ipa_fws.mdt:system/etc/firmware/ipa_fws.mdt \
     vendor/oneplus/dumpling/proprietary/etc/firmware/mbn_ota/mbn_ota.txt:system/etc/firmware/mbn_ota/mbn_ota.txt \
     vendor/oneplus/dumpling/proprietary/etc/firmware/tfa98xx.cnt:system/etc/firmware/tfa98xx.cnt \
-    vendor/oneplus/dumpling/proprietary/etc/firmware/tp/fw_synaptics_15801.img:system/etc/firmware/tp/fw_synaptics_15801.img \
-    vendor/oneplus/dumpling/proprietary/etc/firmware/tp/fw_synaptics_15801b.img:system/etc/firmware/tp/fw_synaptics_15801b.img \
-    vendor/oneplus/dumpling/proprietary/etc/firmware/tp/fw_synaptics_16859.img:system/etc/firmware/tp/fw_synaptics_16859.img \
+    vendor/oneplus/dumpling/proprietary/etc/firmware/tp/fw_synaptics_17801.img:system/etc/firmware/tp/fw_synaptics_17801.img \
     vendor/oneplus/dumpling/proprietary/etc/fsync_db.config:system/etc/fsync_db.config \
     vendor/oneplus/dumpling/proprietary/etc/oneplus5T_vstab_db_1080p_video_0_30fps.config:system/etc/oneplus5T_vstab_db_1080p_video_0_30fps.config \
     vendor/oneplus/dumpling/proprietary/etc/oneplus5T_vstab_db_1080p_video_0_60fps.config:system/etc/oneplus5T_vstab_db_1080p_video_0_60fps.config \
